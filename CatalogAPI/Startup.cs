@@ -65,9 +65,9 @@ namespace CatalogAPI
                     Version="1.0",
                     Contact= new Contact
                     {
-                        Name="Kiran",
-                        Email="Kiran@hexaware.com",
-                        Url="https;//github.com/kiran"
+                        Name="Mahesh",
+                        Email="Maheshd2@hexaware.com",
+                        Url="https;//github.com/maheshdongre07"
                     }
                 });
             });
