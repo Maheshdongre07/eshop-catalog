@@ -59,7 +59,7 @@ namespace CatalogAPI.Controllers
         }
 
         [Authorize(Roles = "admin")]
-        [HttpPost("product")]
+        [HttpPost("product", Name = "AddProductWithImages")]
         public ActionResult<CatalogItem> AddProduct()
         {
             try
