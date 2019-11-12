@@ -67,7 +67,7 @@ namespace CatalogAPI
                     {
                         Name="Mahesh",
                         Email="Maheshd2@hexaware.com",
-                        Url="https;//github.com/maheshdongre07"
+                        Url="https://github.com/maheshdongre07"
                     }
                 });
             });
